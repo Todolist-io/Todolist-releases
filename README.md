@@ -14,13 +14,15 @@ Todolist is a free desktop application allowing you to organise your tasks in a 
 
 - Drag and drop to priorize
 - Calendar to navigate through all your tasks
-- Mouse gesture to navigate quickly
 - Filters
 - Tags
 - Due dates
 - Color customization
 - Export to clipboard
 - Automatic updates
+- Database export / import
+- Sub tasks
+- Task descriptions
 
 ## Downloads
 
